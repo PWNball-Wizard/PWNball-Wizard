@@ -14,8 +14,8 @@ I'm a Software Engineering student at the Autonomous University Of Mexico State 
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Javascript,also with MySQL and JAVA for an Android App.
-- 🚀 &nbsp; I’m currently learning Full Stack Development on [LaunchX](https://github.com/LaunchX-InnovaccionVirtual).
+- 🛠 &nbsp; I'm working with MySQL and JAVA in an Android App.
+- 🚀 &nbsp; Also I’m currently learning Nodejs, Express,Vuejs <br /> Javascript to be a Fullstack Developer, as part of a course by [LaunchX](https://github.com/LaunchX-InnovaccionVirtual).
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/js2202).
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: armandolopez021996@gmail.com.
