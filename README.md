@@ -12,8 +12,6 @@ I'm a Software Engineering student at the Autonomous University Of Mexico State 
 
 <a href="https://www.codewars.com/users/JS2202" target="_blank"><img src="https://www.codewars.com/users/JS2202/badges/large" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
-[![](https://gitwar.herokuapp.com/badge?username=js2202&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
-
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/js2202/js2202/master/gifs/coder.gif" />
 
 ### Talking about Personal Stuffs:
