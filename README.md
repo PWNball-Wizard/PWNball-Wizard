@@ -24,7 +24,7 @@ I'm a Software Engineering student at the Autonomous University Of Mexico State 
 ### My Absolute Favorites:
 
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
-- 📰 &nbsp; Reading & writing tech blogs whenever possible in my blog [Blog](https://js2202.github.io/my_launchx_blog/).
+- 📰 &nbsp; Reading & writing tech blogs whenever possible in my [Blog](https://js2202.github.io/my_launchx_blog/).
 - 🍕 &nbsp; I love movies, music, knowing people, and to participate in new projects.
 
 ### Languages and Tools:
