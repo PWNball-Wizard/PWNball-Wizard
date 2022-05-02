@@ -8,13 +8,14 @@
 
 I'm a Software Engineering student at the Autonomous University Of Mexico State 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Mobile Development, Web Development 🕸️ and working on my Data Structures and Algorithms.
 
+My CodeWars level is:
 <a href="https://www.codewars.com/users/JS2202" target="_blank"><img src="https://www.codewars.com/users/JS2202/badges/large" alt="CodeWars"></a>
-
+I'm actually improving it, and learning new cool stuff!!!
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/js2202/js2202/master/gifs/github_01.gif" />
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I'm working with MySQL and JAVA in an Android App.
+- 🛠 &nbsp; I'm working with MySQL and JAVA in an Android App, and I'm looking for new oportunities.
 - 🚀 &nbsp; Also I’m currently learning Nodejs, Express,Vuejs <br /> Javascript to be a Fullstack Developer, as part of a course by [LaunchX](https://github.com/LaunchX-InnovaccionVirtual).
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/js2202).
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
