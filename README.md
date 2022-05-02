@@ -19,9 +19,8 @@ I'm a Software Engineering student at the Autonomous University Of Mexico State 
 - 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Graphql, Mongodb, Javascript, etc.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/js2202).
-- 💬 &nbsp; Ask me about anything [here](https://github.com/js2202/js2202/issues/2)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
-- 📫 &nbsp; How to reach me: pavangandhi100@gmail.com.
+- 📫 &nbsp; How to reach me: armandolopez021996@gmail.com.
 - 📝 &nbsp; Checkout my [Resume](https://github.com/js2202/js2202/blob/master/resume.pdf).
 
 ### My Absolute Favorites:
