@@ -10,7 +10,7 @@ I'm a Software Engineering student at the Autonomous University Of Mexico State 
 
 <a href="https://www.codewars.com/users/JS2202" target="_blank"><img src="https://www.codewars.com/users/JS2202/badges/large" alt="CodeWars"></a>
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/js2202/js2202/master/gifs/coder.gif" />
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/js2202/js2202/master/gifs/github_01.gif" />
 
 ### Talking about Personal Stuffs:
 
