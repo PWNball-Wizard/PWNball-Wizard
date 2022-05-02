@@ -8,15 +8,9 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=js2202.js2202&style=flat-square&color=0088cc)
 
-I'm a graduate in Computer Science 🎓 from Delhi University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+I'm a Software Engineering student at the Autonomous University Of Mexico State 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Mobile Development, Web Development 🕸️ and working on my Data Structures and Algorithms.
 
-Joined Github **{{ ACCOUNT_AGE }}** years ago.
-
-Since then I pushed **{{ COMMITS }}**+ commits, opened **{{ ISSUES }}**+ issues, submitted **{{ PULL_REQUESTS }}**+ pull requests, created **{{ GISTS }}**+ gists and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}**+ public repositories.
-
-Like My Work?
-
-<a href="https://www.buymeacoffee.com/js2202" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+<a href="https://www.codewars.com/users/JS2202" target="_blank"><img src="https://www.codewars.com/users/JS2202/badges/large" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
 [![](https://gitwar.herokuapp.com/badge?username=js2202&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
 
