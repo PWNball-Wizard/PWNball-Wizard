@@ -1,10 +1,8 @@
 ## Hello!! 👋, I'm [Jose Armando Lopez Alvarez!](https://github.com/JS2202/)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/js2202)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://js2202.github.io/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/js2202)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/js2202/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/js2202)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jose-armando-lopez-alvarez-024532226/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://js2202.github.io/my_launchx_blog/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/TheMoreB3st)
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=js2202.js2202&style=flat-square&color=0088cc)
 
@@ -73,7 +71,7 @@ I'm a Software Engineering student at the Autonomous University Of Mexico State 
   	    <li><b>Browser: </b> Chrome Web Browser</li>
 	    <li><b>Terminal: </b> ZSH </li>
 	    <li><b>Code Editor:</b> VSCode, Android Studio, IntelliJIdea.</li>
-	    <li><b>To Stay Updated:</b> Telegram, Linkedin and Twitter.</li>
+	    <li><b>To Stay Updated:</b> GitHub, Linkedin and Twitter.</li>
 	    <br />
 	</ul>
 
