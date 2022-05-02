@@ -8,7 +8,7 @@
 
 I'm a Software Engineering student at the Autonomous University Of Mexico State 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Mobile Development, Web Development 🕸️ and working on my Data Structures and Algorithms.
 
-<a href="https://www.codewars.com/users/JS2202" target="_blank"><img src="https://www.codewars.com/users/JS2202/badges/large" alt="CodeWars" height="100px" width="217px" ></a>
+<a href="https://www.codewars.com/users/JS2202" target="_blank"><img src="https://www.codewars.com/users/JS2202/badges/large" alt="CodeWars" height="300px" width="217px" ></a>
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/js2202/js2202/master/gifs/coder.gif" />
 
