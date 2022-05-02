@@ -14,8 +14,8 @@ I'm a Software Engineering student at the Autonomous University Of Mexico State 
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Graphql, Mongodb, Javascript, etc.
-- 🚀 &nbsp; I’m currently learning Full Stack Development.
+- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Javascript,also with MySQL and JAVA for an Android App.
+- 🚀 &nbsp; I’m currently learning Full Stack Development on [LaunchX](https://github.com/LaunchX-InnovaccionVirtual).
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/js2202).
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: armandolopez021996@gmail.com.
@@ -67,7 +67,7 @@ I'm a Software Engineering student at the Autonomous University Of Mexico State 
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
   	    <li><b>OS:</b> Windows 11/ZorinOS</li>
-	    <li><b>Laptop: </b> HP Elitebook (i5)</li>
+	    <li><b>Laptop: </b> Lenovo Thinkcentre (i5)</li>
   	    <li><b>Browser: </b> Chrome Web Browser</li>
 	    <li><b>Terminal: </b> ZSH </li>
 	    <li><b>Code Editor:</b> VSCode, Android Studio, IntelliJIdea.</li>
