@@ -21,7 +21,7 @@ I'm a Software Engineering student at the Autonomous University Of Mexico State 
 - 🚀 &nbsp; Also I’m currently learning Nodejs, Express,Vuejs <br /> Javascript to be a Fullstack Developer, as part of a course by [LaunchX](https://github.com/LaunchX-InnovaccionVirtual).
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/js2202).
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
-- 📫 &nbsp; How to reach me: armandolopez021996@gmail.com.
+- 📫 &nbsp; How to reach me: armandolopez021996@gmail.com, leave a message on GitHub, or on my LinkedIn profile.
 - 📝 &nbsp; Checkout my [Resume](https://github.com/JS2202/JS2202/blob/main/ResumeArmandoENG-ACT.pdf).
 
 ### My Absolute Favorites:
