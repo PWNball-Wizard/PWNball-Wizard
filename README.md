@@ -1,33 +1,33 @@
 ## Hello!! 👋, I'm [Jose Armando Lopez Alvarez!](https://github.com/JS2202/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jose-armando-lopez-alvarez-024532226/)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://js2202.github.io/my_launchx_blog/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://pwnball-wizard.github.io/my_launchx_blog/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/TheMoreB3st)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=js2202.js2202&style=flat-square&color=0088cc)
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=pwnball-wizard.pwnball-wizard&style=flat-square&color=0088cc)
 
 I'm a Software Engineering student at the Autonomous University Of Mexico State 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Mobile Development, Web Development 🕸️ and working on my Data Structures and Algorithms.
 
 ### My CodeWars level is:
 
-<a href="https://www.codewars.com/users/JS2202" target="_blank"><img src="https://www.codewars.com/users/JS2202/badges/large" alt="CodeWars"></a>
+<a href="https://www.codewars.com/users/pwnball-wizard" target="_blank"><img src="https://www.codewars.com/users/pwnball-wizard/badges/large" alt="CodeWars"></a>
 
 ### I'm actually improving it, and learning new cool stuff!!!
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/js2202/js2202/master/gifs/github_01.gif" />
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/pwnball-wizard/pwnball-wizard/master/gifs/github_01.gif" />
 
 ### Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I'm working with MySQL and JAVA in an Android App, and I'm looking for new oportunities.
 - 🚀 &nbsp; Also I’m currently learning Nodejs, Express,Vuejs <br /> Javascript to be a Fullstack Developer, as part of a course by [LaunchX](https://github.com/LaunchX-InnovaccionVirtual).
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/js2202).
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/pwnball-wizard).
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: armandolopez021996@gmail.com, leave a message on GitHub, or on my LinkedIn profile.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/JS2202/JS2202/blob/main/ResumeArmandoENG-ACT.pdf).
+- 📝 &nbsp; Checkout my [Resume](https://github.com/pwnball-wizard/pwnball-wizard/blob/main/ResumeArmandoENG-ACT.pdf).
 
 ### My Absolute Favorites:
 
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
-- 📰 &nbsp; Reading & writing tech blogs whenever possible in my [blog](https://js2202.github.io/my_launchx_blog/).
+- 📰 &nbsp; Reading & writing tech blogs whenever possible in my [blog](https://pwnball-wizard.github.io/my_launchx_blog/).
 - 🍕 &nbsp; I love movies, music, knowing people, and to participate in new projects.
 
 ### Languages and Tools:
@@ -56,13 +56,13 @@ I'm a Software Engineering student at the Autonomous University Of Mexico State 
   <summary><b>⚡ Github Stats</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=js2202&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=js2202&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pwnball-wizard&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pwnball-wizard&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=js2202&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pwnball-wizard&hide_border=true" />
 
  
 
@@ -70,7 +70,6 @@ I'm a Software Engineering student at the Autonomous University Of Mexico State 
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
   	    <li><b>OS:</b> Windows 11/ZorinOS</li>
-	    <li><b>Laptop: </b> Lenovo Thinkcentre (i5)</li>
   	    <li><b>Browser: </b> Chrome Web Browser</li>
 	    <li><b>Terminal: </b> ZSH </li>
 	    <li><b>Code Editor:</b> VSCode, Android Studio, IntelliJIdea.</li>
@@ -82,6 +81,6 @@ I'm a Software Engineering student at the Autonomous University Of Mexico State 
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+### Show some ❤️ by starring some of my repositories!
 
 </div>
