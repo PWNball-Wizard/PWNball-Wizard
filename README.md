@@ -42,8 +42,8 @@ I'm a Software Engineering student at the Autonomous University Of Mexico State 
 <!--Frameworks y librerias-->
 <code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" alt="Angular"></code>
 <code><img height="27" src="https://vuejs.org/images/logo.png" alt="Vue.js"></code>
-<code><img height="27" src="https://flask.palletsprojects.com/en/1.1.x/_static/flask-icon.png" alt="Flask"></code>
-<code><img height="27" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png" alt="Express.js"></code>
+<code><img height="27" src="https://c0.klipartz.com/pngpicture/509/951/gratis-png-frasco-por-ejemplo-web-framework-piton-botella-botella.png" alt="Flask"></code>
+<code><img height="27" src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" alt="Express.js"></code>
 <!--Herramientas-->
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal"></code>
