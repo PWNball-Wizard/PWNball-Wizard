@@ -18,11 +18,11 @@ I'm a Software Engineering student at the Autonomous University Of Mexico State 
 ### Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I'm working with MySQL and JAVA in an Android App, and I'm looking for new oportunities.
-- 🚀 &nbsp; Also I’m currently learning Nodejs, Express,Vuejs <br /> Javascript to be a Fullstack Developer, as part of a course by [LaunchX](https://github.com/LaunchX-InnovaccionVirtual).
+- 🚀 &nbsp; You can checkout my projects: [Portfolio](https://pwnball-wizard.github.io/my_launchx_blog/pages/portafolio/).
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/pwnball-wizard).
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: armandolopez021996@gmail.com, leave a message on GitHub, or on my LinkedIn profile.
 - 📝 &nbsp; Checkout my [Resume](https://github.com/pwnball-wizard/pwnball-wizard/blob/main/ResumeArmandoENG-ACT.pdf).
+- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 
 ### My Absolute Favorites:
 
