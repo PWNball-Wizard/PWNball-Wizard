@@ -1,10 +1,7 @@
 name: Metrics
 on:
-  # Se actualiza cada 24 horas
   schedule: [{cron: "0 0 * * *"}]
-  # Permite ejecución manual
   workflow_dispatch:
-  # Se ejecuta al hacer push en la rama principal
   push: {branches: ["main"]}
 
 jobs:
@@ -15,34 +12,32 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Configuración base
           token: ${{ secrets.METRICS_TOKEN }}
           user: xK1LLER-QU33Nx
           template: classic
           base: header, community, repositories, metadata
           config_timezone: America/Mexico_City
 
-          # 🈷️ Languages activity (Lo que ya tenías + mejoras)
+          # 👨‍💻 Lines of code changed (Lo que ya tenías)
+          plugin_lines: yes
+
+          # 🈷️ Languages activity (Desglose detallado de lenguajes)
           plugin_languages: yes
           plugin_languages_sections: most-used
           plugin_languages_details: percentage
           plugin_languages_limit: 8
-          
-          # 👨‍💻 Lines of code changed (Lo que ya tenías)
-          plugin_lines: yes
 
-          # 🧑‍🤝‍🧑 People (Nuevo: Seguidores y seguidos)
+          # 🧑‍🤝‍🧑 People (Tus seguidores y seguidos)
           plugin_people: yes
           plugin_people_types: followers, following
           plugin_people_limit: 28
           plugin_people_size: 28
 
-          # 🎼 Music (Nuevo: Apple Music)
+          # 🎼 Music (Tu playlist de Apple Music integrada)
           plugin_music: yes
           plugin_music_provider: apple
-          # REEMPLAZA EL LINK DE ABAJO por el de tu playlist pública de Apple Music
-          plugin_music_playlist: TU_URL_DE_PLAYLIST_DE_APPLE_MUSIC
+          plugin_music_playlist: https://music.apple.com/mx/playlist/radio-disney-apple/pl.u-4JomaoJsX3WrKdk
 
-          # 📓 Featured repositories (Nuevo: Repositorios pinneados)
+          # 📓 Featured repositories (Tus proyectos destacados)
           plugin_repositories: yes
           plugin_repositories_pinned: 4
