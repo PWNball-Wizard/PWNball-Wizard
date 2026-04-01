@@ -1,62 +1,51 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FF0055&center=true&vCenter=true&width=435&lines=xK1LLER-QU33Nx;Software+Engineer;AWS+Cloud+%26+DevOps;AI+Solutions+Builder" alt="Typing SVG" />
-</div>
 
-### 🚀 Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=xK1LLER-QU33Nx.xK1LLER-QU33Nx&style=flat-square&color=FF0055)
-
-I'm a **Software Engineer** with 3 years of experience 🏛. I'm a passionate learner specialized in **Cloud Computing and DevOps**, currently focusing on **AWS (Bedrock, ECS)** and AI solutions 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.
+# xK1LLER-QU33Nx
+  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=0088cc&center=true&vCenter=true&width=500&lines=SOFTWARE+ENGINEER;AWS+CLOUD+ARCHITECT;AI+%26+DEVOPS+DEVELOPER" alt="Typing SVG" />
 
 ---
 
-### 🔗 Connect with me
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jose-armando-lopez-alvarez-024532226/)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pwnball-wizard.github.io/my_launchx_blog/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/TheMoreB3st)
+### Jose Armando Lopez Alvarez
+**Software Engineer | 3 Years of Experience** Specialized in building scalable Cloud Infrastructure (AWS/GCP), DevOps automation, and Artificial Intelligence solutions.  
+Currently focusing on Generative AI architecture and High-Performance Backend development.
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jose-armando-lopez-alvarez-024532226/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://pwnball-wizard.github.io/my_launchx_blog/)
+[![Gmail Badge](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:armandolopez021996@gmail.com)
 
 ---
 
-### 🥋 My CodeWars level:
-<div align="left">
-  <a href="https://www.codewars.com/users/pwnball-wizard" target="_blank">
-    <img src="https://www.codewars.com/users/pwnball-wizard/badges/large" alt="CodeWars Badge" />
-  </a>
-</div>
+### 📊 GitHub Productivity & Metrics
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=xK1LLER-QU33Nx&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xK1LLER-QU33Nx&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=xK1LLER-QU33Nx&hide_border=true&theme=tokyonight" />
 
 ---
 
-### 📊 GitHub Activity & Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xK1LLER-QU33Nx&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xK1LLER-QU33Nx&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical"/>
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=xK1LLER-QU33Nx&hide_border=true&theme=radical" />
-</div>
+### 🥋 Competitive Programming
+<a href="https://www.codewars.com/users/pwnball-wizard" target="_blank">
+  <img src="https://www.codewars.com/users/pwnball-wizard/badges/large" alt="CodeWars Badge" />
+</a>
 
 ---
 
-### 🛠️ Languages and Tools
+### 🛠️ Programming Experience & Tech Stack
 
-| Category | Tools |
+| Category | Proficiency & Tools |
 | :--- | :--- |
-| **Languages** | `HTML5` `CSS3` `JavaScript` `TypeScript` `Python` `Java` `Kotlin` |
-| **Frameworks** | `Angular` `Vue.js` `Flask` `Express.js` `Flutter` |
-| **Cloud/DevOps** | `AWS (Bedrock, ECS)` `GCP` `Git` `Docker` `Terminal` |
-| **Databases** | `MySQL` `Firebase` `PostgreSQL` |
+| **Languages** | `JavaScript (ES6+)` `TypeScript` `Python` `Java` `Kotlin` `SQL` |
+| **Cloud & DevOps** | `AWS (Bedrock, ECS, Lambda, S3)` `GCP` `Docker` `Terraform` `Git` |
+| **Frameworks** | `Node.js` `Angular` `Vue.js` `Flask` `Express.js` `Flutter` |
+| **Databases** | `PostgreSQL` `MySQL` `Firebase (NoSQL)` |
 
 ---
 
-### 👾 Talking about Personal Stuffs:
-- 🛠 &nbsp; Working on **RAG systems** (Branches Insights AI) and **AWS Cloud Architecture**.
-- 👨🏻‍💻 &nbsp; Currently improving my logic with Data Structures and Algorithms.
-- 📫 &nbsp; Reach me at: **armandolopez021996@gmail.com**.
-- 🎸 &nbsp; Fun fact: I'm probably listening to *Killer Queen* or *Dear Prudence* right now.
+### 👨🏻‍💻 Professional Development
+- 🚀 **Core Focus:** Developing scalable AI-driven automation and robust cloud microservices.
+- 🧠 **Certification:** Studying for **AWS Certified AI Practitioner (AIF-C01)**.
+- 🏛️ **CS Fundamentals:** Deep interest in Data Structures, Algorithms, and Cloud Security.
+- 📈 **Profile Traffic:** ![](https://visitor-badge.glitch.me/badge?page_id=xK1LLER-QU33Nx.xK1LLER-QU33Nx&style=flat-square&color=0088cc)
 
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A9FEFF&center=true&vCenter=true&width=435&lines=User:+xK1LLER-QU33Nx;Status:+Ready+to+Deploy;Level:+Senior+Dev+in+Progress" alt="Footer Typing" />
-  <br />
-  <b>Show some ❤️ by starring some of my repositories!</b>
 </div>
