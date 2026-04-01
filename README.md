@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=FF0055&center=true&vCenter=true&width=600&lines=xK1LLER-QU33Nx;SOFTWARE+ENGINEER;CLOUD+%26+AI+SPECIALIST" alt="Typing SVG" />
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=FF0055&center=true&vCenter=true&width=600&lines=xK1LLER-QU33Nx;SOFTWARE+ENGINEER;AWS+CERTIFIED+AI;CLOUD+%26+DEVOPS+MAISTRO" alt="Typing SVG" />
 
 ---
 
@@ -15,8 +15,12 @@
 
 ---
 
-### 📊 GitHub Productivity & Metrics
+### 📊 GitHub Productivity & Achievements
 <div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=xK1LLER-QU33Nx&theme=radical&no-frame=true&column=4" alt="GitHub Trophies" />
+  </a>
+  <br />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xK1LLER-QU33Nx&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xK1LLER-QU33Nx&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical"/>
 </div>
@@ -36,6 +40,11 @@
 
 ---
 
+### 📜 Certifications
+- ☁️ **AWS Certified AI Practitioner (AIF-C01)** ✅ 
+
+---
+
 ### 🛠️ Languages and Tools
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML"></code>
@@ -44,7 +53,6 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" alt="TypeScript"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"></code>
-<code><img height="40" src="https://download.logo.wine/logo/Kotlin_(programming_language)/Kotlin_(programming_language)-Logo.wine.png" alt="Kotlin"></code>
 
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" alt="Angular"></code>
 <code><img height="40" src="https://vuejs.org/images/logo.png" alt="Vue.js"></code>
@@ -61,7 +69,6 @@
 
 ### 👨🏻‍💻 Professional Focus
 - 🚀 **Core Focus:** Developing scalable AI-driven automation and robust cloud microservices.
-- 🧠 **Certification:** Currently studying for **AWS Certified AI Practitioner (AIF-C01)**.
 - 🏛️ **Expertise:** Data Structures, Algorithms, and Cloud Security.
 - 📈 **Profile Traffic:** ![](https://visitor-badge.glitch.me/badge?page_id=xK1LLER-QU33Nx.xK1LLER-QU33Nx&style=flat-square&color=FF0055)
 
