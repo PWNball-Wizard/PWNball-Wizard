@@ -16,27 +16,24 @@
 
 ---
 
-### 🐍 GitHub Contribution Snake
+### 🐍 Contribution Activity
 <div align="center">
   <img src="https://raw.githubusercontent.com/xK1LLER-QU33Nx/xK1LLER-QU33Nx/output/github-contribution-grid-snake.svg" alt="Snake Game" />
 </div>
 
 ---
 
-### 📊 GitHub Productivity & Metrics
+### 📊 Engineering Metrics & Productivity
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=xK1LLER-QU33Nx&theme=react-dark&area=true&hide_border=true&v=1" alt="Activity Graph" />
-  <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xK1LLER-QU33Nx&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical&v=1" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xK1LLER-QU33Nx&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical&v=1"/>
+  <img src="https://raw.githubusercontent.com/xK1LLER-QU33Nx/xK1LLER-QU33Nx/main/github-metrics.svg" alt="GitHub Metrics" width="100%" />
 </div>
 
 ---
 
-### ⏳ Weekly Coding Activity
+### ⏳ Weekly Development Breakdown
 ---
 
-### 🛠️ Skills & Technologies
+### 🛠️ Core Stack & Technologies
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,py,java,kotlin,nodejs,angular,vue,flask,flutter,aws,gcp,docker,terraform,git,mysql,postgres,firebase" />
@@ -45,7 +42,7 @@
 
 ---
 
-### 🥋 CodeWars Profile
+### 🥋 Competitive Programming
 <div align="left">
   <a href="https://www.codewars.com/users/K1LLER_QU33N" target="_blank">
     <img src="https://www.codewars.com/users/K1LLER_QU33N/badges/large" alt="CodeWars Badge" />
@@ -60,8 +57,8 @@
 ---
 
 ### 👨🏻‍💻 Professional Focus
-- 🚀 **Core Focus:** Developing scalable AI-driven automation and robust cloud microservices.
-- 🏛️ **Expertise:** Data Structures, Algorithms, and Cloud Security.
-- 📈 **Profile Traffic:** ![](https://visitor-badge.glitch.me/badge?page_id=xK1LLER-QU33Nx.xK1LLER-QU33Nx&style=flat-square&color=FF0055)
+- 🚀 **Strategic Focus:** Scalable AI automation and high-performance cloud microservices.
+- 🏛️ **Expertise:** Data Structures, Algorithms, and System Architecture.
+- 📈 **Profile Analytics:** ![](https://visitor-badge.glitch.me/badge?page_id=xK1LLER-QU33Nx.xK1LLER-QU33Nx&style=flat-square&color=FF0055)
 
 </div>
