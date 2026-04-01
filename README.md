@@ -17,7 +17,7 @@
 
 ### 📊 GitHub Productivity & Achievements
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <a href="https://github.com/xK1LLER-QU33Nx">
     <img src="https://github-profile-trophy.vercel.app/?username=xK1LLER-QU33Nx&theme=radical&no-frame=true&column=4" alt="GitHub Trophies" />
   </a>
   <br />
