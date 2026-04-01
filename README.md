@@ -15,11 +15,16 @@
 
 ---
 
-### 📊 GitHub Productivity & Achievements
+### 🐍 GitHub Contribution Snake
 <div align="center">
-  <a href="https://github.com/xK1LLER-QU33Nx">
-    <img src="https://github-profile-trophy.vercel.app/?username=xK1LLER-QU33Nx&theme=radical&no-frame=true&column=4" alt="GitHub Trophies" />
-  </a>
+  <img src="https://raw.githubusercontent.com/xK1LLER-QU33Nx/xK1LLER-QU33Nx/output/github-contribution-grid-snake.svg" alt="Snake Game" />
+</div>
+
+---
+
+### 📊 GitHub Productivity & Metrics
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=xK1LLER-QU33Nx&theme=react-dark&area=true&hide_border=true" alt="Activity Graph" />
   <br />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xK1LLER-QU33Nx&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xK1LLER-QU33Nx&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical"/>
@@ -47,23 +52,14 @@
 
 ### 🛠️ Languages and Tools
 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" alt="TypeScript"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"></code>
-
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" alt="Angular"></code>
-<code><img height="40" src="https://vuejs.org/images/logo.png" alt="Vue.js"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js"></code>
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flutter_logo.svg/2048px-Flutter_logo.svg.png" alt="Flutter"></code>
-
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="GCP"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal"></code>
 
 ---
 
