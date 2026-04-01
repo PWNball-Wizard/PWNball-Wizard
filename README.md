@@ -2,8 +2,6 @@
 
 # <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=FF0055&center=true&vCenter=true&width=600&lines=xK1LLER-QU33Nx;SOFTWARE+ENGINEER;DEVOPS+%2B+AI+DEVELOPER;MY+TECH+STACK:" alt="Typing SVG" />
 
-<img src="https://skillicons.dev/icons?i=py,js,ts,nodejs,aws,docker,terraform,git&perline=8" />
-
 ### Jose Armando Lopez Alvarez
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jose-armando-lopez-alvarez-024532226/)
