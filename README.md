@@ -1,11 +1,11 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=FF0055&center=true&vCenter=true&width=600&lines=xK1LLER-QU33Nx;SOFTWARE+ENGINEER;AWS+CERTIFIED+AI;CLOUD+%26+DEVOPS+MAISTRO" alt="Typing SVG" />
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=FF0055&center=true&vCenter=true&width=600&lines=xK1LLER-QU33Nx;SOFTWARE+ENGINEER;CLOUD+ARCHITECT;AI+SOLUTIONS+DEVELOPER" alt="Typing SVG" />
 
 ---
 
 ### Jose Armando Lopez Alvarez
-**Software Engineer | 3 Years of Experience** Specialized in Cloud Infrastructure, DevOps automation, and Generative AI solutions.
+**Software Engineer | 3 Years of Experience** Specialized in Cloud Infrastructure, DevOps Automation, and Generative AI Solutions.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jose-armando-lopez-alvarez-024532226/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pwnball-wizard.github.io/my_launchx_blog/)
@@ -36,7 +36,7 @@
 
 ---
 
-### 🥋 CodeWars Level
+### 🥋 CodeWars Profile
 <div align="left">
   <a href="https://www.codewars.com/users/K1LLER_QU33N" target="_blank">
     <img src="https://www.codewars.com/users/K1LLER_QU33N/badges/large" alt="CodeWars Badge" />
@@ -46,7 +46,7 @@
 ---
 
 ### 📜 Certifications
-- ☁️ **AWS Certified AI Practitioner (AIF-C01)** ✅ 
+- ☁️ **AWS Certified AI Practitioner (AIF-C01)** ✅
 
 ---
 
@@ -68,7 +68,4 @@
 - 🏛️ **Expertise:** Data Structures, Algorithms, and Cloud Security.
 - 📈 **Profile Traffic:** ![](https://visitor-badge.glitch.me/badge?page_id=xK1LLER-QU33Nx.xK1LLER-QU33Nx&style=flat-square&color=FF0055)
 
-<div align="center">
-  <br />
-  <b>Show some ❤️ by starring some of my repositories!</b>
 </div>
