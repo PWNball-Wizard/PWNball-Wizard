@@ -9,6 +9,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jose-armando-lopez-alvarez-024532226/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://pwnball-wizard.github.io/my_launchx_blog/)
+[![Apple Music Badge](https://img.shields.io/badge/Apple_Music-FF2D55?style=flat-square&logo=apple-music&logoColor=white)](https://music.apple.com/profile/TU_USUARIO)
 [![Gmail Badge](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:armandolopez021996@gmail.com)
 
 </div>
@@ -24,15 +25,23 @@
 
 ### 📊 GitHub Productivity & Metrics
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=xK1LLER-QU33Nx&theme=react-dark&area=true&hide_border=true" alt="Activity Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=xK1LLER-QU33Nx&theme=react-dark&area=true&hide_border=true&v=1" alt="Activity Graph" />
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xK1LLER-QU33Nx&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xK1LLER-QU33Nx&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xK1LLER-QU33Nx&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical&v=1" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xK1LLER-QU33Nx&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical&v=1"/>
 </div>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=xK1LLER-QU33Nx&hide_border=true&theme=radical" />
-</div>
+---
+
+### ⏳ Weekly Coding Activity
+---
+
+### 🛠️ Skills & Technologies
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,py,java,kotlin,nodejs,angular,vue,flask,flutter,aws,gcp,docker,terraform,git,mysql,postgres,firebase" />
+  </a>
+</p>
 
 ---
 
@@ -47,19 +56,6 @@
 
 ### 📜 Certifications
 - ☁️ **AWS Certified AI Practitioner (AIF-C01)** ✅
-
----
-
-### 🛠️ Languages and Tools
-
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript"></code>
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" alt="TypeScript"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git"></code>
 
 ---
 
