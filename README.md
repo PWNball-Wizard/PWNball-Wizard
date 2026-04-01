@@ -10,7 +10,7 @@ I'm a Software Engineering student at the Autonomous University Of Mexico State 
 
 ### My CodeWars level is:
 
-<a href="https://www.codewars.com/users/pwnball-wizard" target="_blank"><img src="https://www.codewars.com/users/pwnball-wizard/badges/large" alt="CodeWars"></a>
+<a href="https://www.codewars.com/users/K1LLER_QU33N" target="_blank"><img src="https://www.codewars.com/users/K1LLER_QU33N/badges/large" alt="CodeWars"></a>
 
 ### I'm actually improving it, and learning new cool stuff!!!
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/pwnball-wizard/pwnball-wizard/master/gifs/github_01.gif" />
