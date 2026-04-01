@@ -1,0 +1,30 @@
+name: Metrics
+on:
+  # Se actualiza cada 24 horas
+  schedule: [{cron: "0 0 * * *"}]
+  # Permite ejecución manual
+  workflow_dispatch:
+  # Se ejecuta al hacer push en la rama principal
+  push: {branches: ["main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Token de GitHub (ver nota abajo)
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Configuración de la imagen
+          user: xK1LLER-QU33Nx
+          template: classic
+          base: header, community, repositories, metadata
+          config_timezone: America/Mexico_City
+          
+          # Plugins adicionales profesionales
+          plugin_languages: yes
+          plugin_languages_sections: most-used
+          plugin_languages_details: percentage
+          plugin_lines: yes
