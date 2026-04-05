@@ -37,9 +37,6 @@
 
 ---
 
-### ⏳ Weekly Development Breakdown
----
-
 ### 🛠️ Detailed Skills & Technologies
 <p align="center">
   <a href="https://skillicons.dev">
