@@ -38,9 +38,9 @@
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -51,7 +51,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1 2.5A2.5 2.5 0 013.5 0h8.75a.75.75 0 01.75.75v3.5a.75.75 0 01-1.5 0V1.5h-8a1 1 0 00-1 1v6.708A2.492 2.492 0 013.5 9h3.25a.75.75 0 010 1.5H3.5a1 1 0 100 2h5.75a.75.75 0 010 1.5H3.5A2.5 2.5 0 011 11.5v-9zm13.23 7.79a.75.75 0 001.06-1.06l-2.505-2.505a.75.75 0 00-1.06 0L9.22 9.229a.75.75 0 001.06 1.061l1.225-1.224v6.184a.75.75 0 001.5 0V9.066l1.224 1.224z"/>
                             </svg>
-                            Contributed to 20 repositories
+                            Contributed to 22 repositories
                         </div>
                     </section>
                 </div>
@@ -106,7 +106,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                             </svg>
-                            114 Repositories
+                            116 Repositories
                         </h2>
                         <div class="row">
                             <section>
@@ -132,7 +132,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    1.85 GB used
+                                    1.86 GB used
                                 </div>
                                 <div class="field ">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -413,31 +413,31 @@
                         </div>
                         <div class="tracklist">
                             <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAYEBQcBA//EAC8QAAEDAwIFAwIGAwAAAAAAAAECAwQFBhEAIQcSEzFBIjJRYXEUFiNSkdFCQ6H/xAAZAQEAAwEBAAAAAAAAAAAAAAAFAAMEAgb/xAAmEQACAQQBAwMFAAAAAAAAAAABAgMABBExEgUhkRMVcRQiUaHw/9oADAMBAAIRAxEAPwBWoTllLpkD8dRHHghtlMp9CXucktudYjCsEhXSxgY3OraOeGywl8UxZZCwSsx5Bb/D8wykgL5i9y59Y9H01R0qGE0+mJD7KesylW59mf3fGmT8l1ILSGWkmIUhQczjCcfGizLOzMEXODjdeiHT7JERpZcchnX94qlhO2OmHFXMoji4/wCl1nwl4KwQ71CMKxkfpcu2O/fVik8N20ofcpiwzzJIcVHkcgY5hlKgF5L2M+sej6aiv0tLdSVB6zJSn099sft+/jGrNuDRXgzGQHVOqUlOSfcc9iO39azyX0iMFK7ON1f7Pb8eQc6zqs5q8amJgrdjxpLC+ZRQpTeUqGTyjc5Tt5I0a2O/7XokGy6nLiolKkBglKFpwEn5J/rRpaH1uP3r3+aAuPpQw9Bsj4rzs3hyaraVJqCZADb8ZK1AndO2/wB9TH6nczUtLcd1DURlIZRHKAQpAAHq2ySRvnP21nFzXdcca3rep1Ek1CHT4lMZW6uOFJC1qySSoeAMDGcZzpg4sXZVk0e22qSqSwkwW3ZcxpvBWopAAKxuPJxt30TLaMGzE+MnvSsXUHK4nTkFGB21Ty7wx6L5lCQkx0kPbn1fOPvp4l21SGnlzmqfHRLUtKi6lO+eYZPwD9dZhxjvSqRKdb8OjPSI7L5SqW+0nun0gIKvGckn51dcUb1lQnLfi0pbjKJdRbTJdQnbphQ9GfGSf4GuordY9HZqq4uLmfs+ewx5pk4tx0DhxcBSkDEVR7aNKXHu7FNWOuJByFTngw6vlyEt4JI+hOAP50aQgJZc5o2aMxtxYYpNtK76G1aUNqbNbZdjMhpxlfuONth/kCNSYV6247b3UckNtIS0UKhr3XjGOUJ8j/mjRrI/TLdmJI/dLR38oVR21XXr2t523FPOSG1czODCO7hVj24+/nt50T72t40QyVSW5BUlKhF/2c2xAI8YPnRo1PabbeD5qHqU2DrX4qJet2UGZaUttmWzKdkt8rTQGVJUexIPtx330aNGtNtZxQrxQVhvrt3kBIGq/9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Drive</div>
-                                    <div class="artist">moa moa</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAwACAwAAAAAAAAAAAAAAAAYHAQIDBAX/xAAxEAABAgUCBAMGBwAAAAAAAAABAgMABAURIQYSBxQxQRMiMlFhcYGhsRUjJUKEkfD/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQID/8QAGhEBAQEBAQEBAAAAAAAAAAAAAQARAiFBYf/aAAwDAQACEQMRAD8ArFU4g6ekJuZlJp98vMLU24lMupQuMH4x5x4saTTgzE0P4qolep3duuK2Ckm0457v3RyVyk0+epiVIUmWnkgEYwsE2zb7xioWvOu1SZ4paUmFqCJmZJQlTnmlyLBIuev27x0pvihoqaCRMLmXAk3TeVVg94ip07U2eZYTLuLfWQhKmyChSOqju6WuE9xG8hpd5VQLM6+2htuxcLZ3kD2Y7weRXHTutNL1SsNylI5nnJgKAK2VAGwubk/CCFLSQpclqKmtyLYQ4lRCfEwpV0kH6QRl10bWeSPr2aQ3rSupKSo845298d2kPIq0rS2ysNzK5sSvXakoNvLf29DFd1Jw7pU6zWJuRY/WJ1Kylx5wlKVq6mxBA+QhCkuFOpZFbbsrMSCXEK32LqindYjpbrYnMavtHIDKdQqszTmRRHt7XgTDnMBwZuDZJuPdnEZmOYbpfOS5AClX8qyVKR0zfNwQTD5XeGtarDTky9+Hoqq1JKnA6dq02IIPl6+nNs5vHnjhfqneHVP03xkrC0/mq2hQ77dtj37d4T+TA+yfpSrvq1XSV28VXMISNyiRYmx+hghrpfCnUEnW5Odecp3htTCHlhDpvYKBNhtghdAsB5XgqxHGUgoCd7gt3Cs/3BBBteEEDaob15N/Vn5RqpNxbxHBm/q/2IIIWsZYcN79bwQQRLUF/9k=" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Always Get This Way</div>
-                                    <div class="artist">The Aces</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAUGBAMH/8QAKxAAAQMCBAUDBQEAAAAAAAAAAQIDBAARBRIhUQYTIjFBI2GBFDNCcZGx/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAECAwX/xAAcEQEAAgMBAQEAAAAAAAAAAAABAAIDESExElL/2gAMAwEAAhEDEQA/AJ1iEVLzJUgZRly5gD/K1/SKacVnQpJFxqPNdG0dXvVHwlD+oxcPvArZj2cKSbhSvxH9/wArljOnac4HBuKvxg8WmmUq1Sl5eVRH68fNqS4phsiBJUxMaLbgF7XuCNwRoRVy7i2IzECay/Hixwr1ude6U377X+aQYzIk4ph5kSmUsrjSFMJCTcKQRcG9Qo+Sytj2RMyKlV9KKYvtnKbg0UFmVom9pvqO9N4jr+HxldCkFSswuLXKQaz4cxzpQAKenqsfyA8Dc1Z4nHgYy6y048WJrNgkLOW9xoLHvTR1yRXW+yEXi0uQt+I2y66t1XTy15Mu5Udqs4/Di5HDSVPyCyv7yrJzcw2799ANtqyq4aai4qVXUb2zNIOp2HsL+TVdCJZYCHnLpHlR0vsPYCnix/qGbIcKzyOcwWXnG1EFSSQSNRRTrEcLaTPfQqYlIzm3pKJt42FFJNQGJXuasOIQk6C6T2ue9qsOHUCUltvEEscjLmcbcVckeAQRvRRWnwKTMughH+JR4kmKvmOhOT7Kgoen5Hv8XpXKnPMZwwprPokPKB7bgd/eiijNZr5HhqW9kpjGIJfmKc5yHLAJ5iRlCrC17X70UUVi96zfzhP/2Q==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">Therefore I Am</div>
-                                    <div class="artist">Billie Eilish</div>
-                                </div>
-                            </div>
-                            <div class="track">
                                 <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgMAAwAAAAAAAAAAAAAAAAYDBQcBAgT/xAAxEAACAQMDAQUGBgMAAAAAAAABAgMABBEFBiESIjFBUWEHExUyQoE1RFJicXOisdH/xAAXAQEBAQEAAAAAAAAAAAAAAAABAgMA/8QAGxEAAwEBAAMAAAAAAAAAAAAAAAEREiECMWH/2gAMAwEAAhEDEQA/AMV21oum3WjWs1xaLJK4JZuojPJ9au4tpaVPEWjsl4OPmb7eNTbH00y7d06V/kZWP+Rp927rOkadHf217ZF/fwtErqclG/V6/wAVryejPtMxfbOlr+UQ+oZv+1Qbu0izsNMSW2gWNzKFyCTxg+Zp+WEQxmMMXXJPUeM8+XhSn7QfwaP+9f8ARp5kY6JMohFmOhQe7tfV14GQf299Fcm6Q2XugHyVAK57IOfmHrRWcRWmzRNt6qINr2CSzBVRSoGcfUa9rapBGjSGRQo72JqH2Yw6V8AeXVoLWZ5rhbSETnOCysSQPDnpOfLNJm9tM+Ea5JZRztIigNz9J8R9qU7fhTWYxtk3FZ9bK06AAA56qXd4apb32mpHBKrsJQ3B9DSmQfM11lQpjJBzRUFpHRRRUnDHte4sYr62k1C591FCC+ME9TeA4FTbxvrDULu2uLGbrzGRICpBBzxnNFFaaeIQ/FWlB1Jz2u6opJOtQvHFFFZJFJAiI0chaQIygFVwe3z3ennRRRSJ/9k=" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">The Waiting Game</div>
+                                    <div class="name">Season 2 Weight Loss</div>
                                     <div class="artist">Harry Styles</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAcGCAIEBQP/xAAuEAABAwMDBAAFAwUAAAAAAAABAgMEAAURBhIhBxMxQRQiI1GRCFJhMkJxodH/xAAXAQEBAQEAAAAAAAAAAAAAAAAEBQID/8QAIREAAQQCAwADAQAAAAAAAAAAAQACAxEEURITMSEigfD/2gAMAwEAAhEDEQA/AK3xWrQqMyqQ+4l3P1EgHJHOQOMD+37+TWaGbIEgKkPqWCeQMBX29cf7rhU3ujPS9/XUtbaFmJEZbS7JlnBXhX9KGx6JAOVH7fk8gDBZcU1mSPOtv9+qKI09CcaceSiT20AL84OMjOEkZOOc4HHFa7NkiPobfaZmuR1e221EKOQPlOOR5FTfqnoxvSrbrUdqWmKF7UyFEkBYOOT6yOag8iRfdO262OM3HESY2XmQ2oEp+Y5BBHBzzXCNxkbbHe7SDMGk9kYoaC8LhaorMCQ621KQtsJJ7iCMZI88cDmitSbqO6zozjEuYtxpwAKSQOQMY9fwPxRS4mOA+5Q8iVkjgWNpcenN+nDVb9v1BI08Jy4bd2b2IkDktrRlQAJ4SCNwzz59eaTNMnpz04mX1dvn3FS7dbHnd7clTqG97aAreU5Oc7tiQrGMmsZPDrIeaWIeXMcRasLr5Nqm9NJMxqamdHlyC73nEYGCogYH7RjAPvz7qs0JTF4vdnj6ic+GsMLKHVND5g2CVrI9lSj4/kgU7eokK8O3RvR8KQy5JktB9lvbsdDftK8AhR485AAyfdQmy9MbjeNOx5c3uRHZ0xMRiNtwpLSCVPOrzyAAkgD2f8igYTePzvxPyXAxkX4kxJDQkOfD9zsbj2y4MKKc8ZxxmipH1IisQdWSosNOyOyEobR+1IHA/FFVlKUXqymiOo0ay9MbPdPim5b1qAhuwl53IJUQgkAjKNvIVyc4AHBooo2VGHht7CRjOIJrRWzaS5qPVkrXWlnnJHYCnA04crcKkncwU5yRjxjnHIrlWWbqeV1ElaolSEu2hUdyM4YyyWWfp5S0Uk5ByEkkZ58nmiihMcYiQN0kyASAXpJDWEozdSTn1HJU4f8AlFFFVh4py//Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">La nostalgie camarade</div>
+                                    <div class="artist">Serge Gainsbourg</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUDBAYCAf/EAC0QAAIBAwMDAwMDBQAAAAAAAAECAwAEEQUSIRMxQQYiUSNxgRQykUJhYtHw/8QAGQEAAgMBAAAAAAAAAAAAAAAAAwQBAgUG/8QAHREAAgMBAAMBAAAAAAAAAAAAAQIAAxEhBBIxQf/aAAwDAQACEQMRAD8Az9uqTbjIwGCO5Pn7c13ABIowGH3pOt10FeRpdige45xxXUmuRWj24ZSYpfcZAMjH481mqpJnQIwRtY8kt9bspZgOCahBSIEzOiL8s2Kp+o7y7m3x2au0bKsiPGP6WBBB/Pml9zptxcRuq2bYkA2yyZG3A7YJzjI80ZU50yr34SEGza6DcWwvVh6sbTY3BN3OPmikHpGxkOpJKph6cR52PuOdu3H2xzRVGAByFrsZhpEz980lzeOgEikHpgDkYJ7kf92p1YvbW+nKmplOmJCdqcgdzivZoTtdo1HUKkA0ss9Nkl2BFMUO5S4kHJI+P5NFBBHYn6sp0d2OL/W7cQ/orCK3aI/R3ueP2ggD+3+qoTG8v5Y3iM5dJAdsbEDYQOw7DHbknzTvT9FsTEiyxglCucHAYjPcfmtMFiUYVQB4xUe6r8EMKHfrnkS+kNMmt52aRAkfTVQOzHBPJHzg0VqLFB1M4xxRQGYk7GFUIPURTb6O8/pm9uk0t5GQqq3Csw2sWVdoGcE8/B71NL6Ru9GjsZtWgDG6ljhjt95EgaTdtyAP8TxkUUVp31Kr4Ji0eQ5qOn9lbVdK0+x1fUIbbWpJLGK4jt4ZjHwzspZlJxhSDxz/ADSbW4dRsYZri3vCYVkMSqYgWXA53fnjiiilXABj9Ds2qT8Ea+gLy69QK6xH68Ua59+Pd5OD4ooooFvGwSEucqNM/9k=" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">El boxeador</div>
+                                    <div class="artist">Damas Gratis</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAoACgDASIAAhEBAxEB/8QAGwABAAIDAQEAAAAAAAAAAAAAAAMEAQIFBgf/xAAtEAABBAEDAgQEBwAAAAAAAAABAAIDBBEFEiEGURMxQYEVI3HRIjJCYZGxwv/EABsBAAEFAQEAAAAAAAAAAAAAAAMAAQIEBgUH/8QAIREAAwACAQMFAAAAAAAAAAAAAAECAxExBBIhBUFhcYH/2gAMAwEAAhEDEQA/AK3S2i6fe0Sa5ebI57LDYuJNoDSWj/S67+ktMhuawS2d8VOBsjIy/GSWuJ5xkjheCit6kyrJWqOldUedz425w48fYK78c6hZK6bxrWSwNc4n9Png54POVxj0HLhzu6c3rf38Hqj0nSfrMm2G3Dp8NUzyNmdg7uQAD24z7Li9ZaRU0o6a6kyRgsweI4Pfu548v5XKfr2s2PFZZszmOZu2X5uQ4diOyju3bNwRC3YkmETdrN7s7R2CZ6DYOnz96u72l7eSqURwRJF2+QODxlSAnHmfotFkKIZI2RYUzathxw2vMSfQMKQ1XM8sruRTyU7bR+KrYH1id9kUkivebHvlFf1TOERLQXuZvEfms8/zD+19K0+KQ2Xxu5Y7IB3ft6dkRTheTP8ArdPU/pebA2tBN4jR7E5PuiIjszab0f/Z" width="32" height="32" alt="" />
+                                <div class="infos">
+                                    <div class="name">Tap Out</div>
+                                    <div class="artist">The Strokes</div>
                                 </div>
                             </div>
                         </div>
@@ -526,7 +526,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Apr 2026, 19:25:48 (timezone America/Mexico_City) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Apr 2026, 19:49:03 (timezone America/Mexico_City) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
