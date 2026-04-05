@@ -5,7 +5,7 @@
 ### Jose Armando Lopez Alvarez
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jose-armando-lopez-alvarez-024532226/)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://pwnball-wizard.github.io/my_launchx_blog/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://xK1LLER-QU33Nx.github.io/my_launchx_blog/)
 [![Apple Music Badge](https://img.shields.io/badge/Apple_Music-FF2D55?style=flat-square&logo=apple-music&logoColor=white)](https://music.apple.com/mx/playlist/radio-disney-apple/pl.u-4JomaoJsX3WrKdk)
 [![Gmail Badge](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:armandolopez021996@gmail.com)
 
