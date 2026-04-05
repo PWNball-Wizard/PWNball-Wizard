@@ -34,10 +34,13 @@ jobs:
           plugin_people_size: 28
 
           # 🎼 Music (Tu playlist de Apple Music integrada)
+          # 🎼 Music (Tu playlist de Apple Music integrada)
           plugin_music: yes
           plugin_music_provider: apple
+          plugin_music_mode: playlist
           plugin_music_playlist: https://embed.music.apple.com/mx/playlist/radio-disney-apple/pl.u-4JomaoJsX3WrKdk
-
+          plugin_music_limit: 10
+          
           # 📓 Featured repositories (Tus proyectos destacados)
           plugin_repositories: yes
           plugin_repositories_pinned: 4
