@@ -43,4 +43,4 @@ jobs:
           
           # 📓 Featured repositories (Tus proyectos destacados)
           plugin_repositories: yes
-          plugin_repositories_pinned: 4
+          plugin_repositories_pinned: 5
