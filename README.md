@@ -30,9 +30,6 @@
 
 ---
 
-### ⏳ Weekly Development Breakdown
----
-
 ### 🐍 GitHub Contribution Activity
 <div align="center">
   <img src="https://raw.githubusercontent.com/xK1LLER-QU33Nx/xK1LLER-QU33Nx/output/github-contribution-grid-snake.svg" alt="Snake Game" />
