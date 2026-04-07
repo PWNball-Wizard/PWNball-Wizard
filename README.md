@@ -31,7 +31,6 @@
 ---
 
 ### ⏳ Weekly Development Breakdown
-
 ---
 
 ### 🐍 GitHub Contribution Activity
